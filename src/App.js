@@ -8,7 +8,7 @@ import profileImage03 from './img/basher03.jpg';
 function App() {
   return (
     <div className="App">
-      <h1>Travelling to Green Valley Park, Ruppur, Nator 2022</h1>
+      <h1 className='GValley'>Travelling to Green Valley Park, Ruppur, Nator 2022</h1>
       <h2>Organized by a Team of Teachers</h2>
       <p className='des01'>Green Valley Park is situated in Lalpur, Natore, Bangladesh. It is an amazing place to visit. I am really surprised visiting this place first time. It was a really nice trip. Want to go there again with my family. Hope, you will enjoy here.</p>
       <img className="img2" src={profileImage2} alt="profile-pic2" />
