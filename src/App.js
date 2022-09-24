@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>My React App</h1>
-      <h2>Author: Basher</h2>
+      <h2>Author: Abul Basher</h2>
       <img src={profileImage} alt="profile-pic" />
     </div>
   );
