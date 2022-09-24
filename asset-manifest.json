@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/basher/static/css/main.502d0a39.css",
-    "main.js": "/basher/static/js/main.97e108b8.js",
-    "static/js/787.bd18d16f.chunk.js": "/basher/static/js/787.bd18d16f.chunk.js",
-    "index.html": "/basher/index.html",
-    "main.502d0a39.css.map": "/basher/static/css/main.502d0a39.css.map",
-    "main.97e108b8.js.map": "/basher/static/js/main.97e108b8.js.map",
-    "787.bd18d16f.chunk.js.map": "/basher/static/js/787.bd18d16f.chunk.js.map"
+    "main.css": "/travelbd/static/css/main.1fe614b7.css",
+    "main.js": "/travelbd/static/js/main.05562d6b.js",
+    "static/js/787.bd18d16f.chunk.js": "/travelbd/static/js/787.bd18d16f.chunk.js",
+    "static/media/basher01.jpg": "/travelbd/static/media/basher01.f43bd66e0330134c119f.jpg",
+    "static/media/basher03.jpg": "/travelbd/static/media/basher03.2e9b6c29cabfe103f4ce.jpg",
+    "static/media/basher.jpg": "/travelbd/static/media/basher.01aae7f8891ebb32e2fc.jpg",
+    "static/media/basher02.jpg": "/travelbd/static/media/basher02.a147370002e4a2c67b38.jpg",
+    "index.html": "/travelbd/index.html",
+    "main.1fe614b7.css.map": "/travelbd/static/css/main.1fe614b7.css.map",
+    "main.05562d6b.js.map": "/travelbd/static/js/main.05562d6b.js.map",
+    "787.bd18d16f.chunk.js.map": "/travelbd/static/js/787.bd18d16f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.502d0a39.css",
-    "static/js/main.97e108b8.js"
+    "static/css/main.1fe614b7.css",
+    "static/js/main.05562d6b.js"
   ]
 }
