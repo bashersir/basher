@@ -6,13 +6,25 @@ body{
   background-color: orange;
 }
 .img2,.img3,.img4,.img5{
-  width: 400px;
-  height: 300px;
+  width: 80vh;
+  height: 50vh;
   display:block;
   margin: 0 auto;
   margin-top: 20px;
-  border: solid 5px 
-  ;
+  border: solid 5px;
+  padding: 20px;
+}
+.des01{
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: justify;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: sans-serif;
+  padding: 50px;
+  letter-spacing: normal;
+
 }
 
 .App-logo {
