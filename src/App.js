@@ -9,9 +9,9 @@ import profileImage03 from './img/basher03.jpg';
 function App() {
   return (
     <div className="App">
-      <h1>My React App</h1>
-      <h2>Author: Muhammad Abul Basher, Lecturer in English</h2>
-      <p>Transforming Lives We are the only project in Bangladesh offering a safe haven and livelihood training to single mothers and their children, transforming their lives with independence, confidence and dignity. Sreepur Village has becoming increasingly well known throughout the country for empowering mothers and their children with hope for a brighter future</p>
+      <h1>Travelling to Green Valley Park, Ruppur, Nator 2022</h1>
+      <h2>Organized by a Team of Teachers</h2>
+      <p>Green Valley Park is situated in Lalpur, Natore, Bangladesh. It is an amazing place to visit. I am really surprised visiting this place first time. It was a really nice trip. Want to go there again with my family. Hope, you will enjoy here.</p>
       <img className="img1" src={profileImage1} alt="profile-pic1" />
       <img className="img2" src={profileImage2} alt="profile-pic2" />
       <img className="img3" src={profileImage01} alt="profile-pic3" />
